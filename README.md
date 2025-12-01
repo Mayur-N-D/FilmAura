@@ -31,20 +31,6 @@ New content sections are added regularly — entertainment made simple!
 
 ---
 
-## 📂 Project Structure
-
-FilmAura/
-│── index.html
-│── styles/
-│ └── style.css
-│── assets/
-│ ├── images/
-│ └── icons/
-└── README.md
-
-
----
-
 ## 📝 Disclaimer
 
 This project is created **only for learning and educational purposes**.  
