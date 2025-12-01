@@ -1,2 +1,65 @@
-# FilmAura
-FilmAura is a streaming platform where you can watch the latest movies and web series anytime. Enjoy a smooth and crazy experience with high-quality videos, easy navigation, and personalized recommendations. New content is added regularly — entertainment made simple!
+# 🎬 FilmAura
+
+FilmAura is a streaming platform UI where you can explore the latest movies and web series anytime.  
+Enjoy a smooth experience with high-quality visuals, easy navigation, and personalized vibes.  
+New content sections are added regularly — entertainment made simple!
+
+---
+
+## 🚀 Live Demo  
+🔗 View Website: *(Add your deployed link here)*
+
+---
+
+## ✨ Features
+
+- 📱 Fully responsive (Desktop → Mobile)
+- 🖼️ Hero banner design with background overlay
+- 🎞️ Movie & Web-Series card UI
+- ❓ FAQ section with smooth layout
+- ⚪ Premium-style footer similar to streaming platforms
+- 💡 Built using only **HTML + CSS** (no JavaScript required)
+
+---
+
+## 🛠️ Tech Stack
+
+| Technology | Purpose |
+|-----------|---------|
+| HTML5 | Structure & content |
+| CSS3 | Styling, Layouts (Flexbox + Grid), Responsive Design |
+
+---
+
+## 📂 Project Structure
+
+FilmAura/
+│── index.html
+│── styles/
+│ └── style.css
+│── assets/
+│ ├── images/
+│ └── icons/
+└── README.md
+
+
+---
+
+## 📝 Disclaimer
+
+This project is created **only for learning and educational purposes**.  
+It does **not** provide real streaming functionality or copyrighted content.  
+All images/icons used are placeholders or royalty-free.
+
+---
+
+## 📩 Contributions
+
+Contributions are always welcome!  
+Feel free to fork, modify, and improve the UI.  
+If you have ideas for better design or animations, send a Pull Request 😊
+
+---
+
+### ⭐ Don’t forget to give this project a star if you like it!
+
