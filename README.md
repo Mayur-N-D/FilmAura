@@ -7,7 +7,7 @@ New content sections are added regularly — entertainment made simple!
 ---
 
 ## 🚀 Live Demo  
-🔗 View Website: *(Add your deployed link here)*
+🔗 View Website:  https://mayur-n-d.github.io/FilmAura/
 
 ---
 
